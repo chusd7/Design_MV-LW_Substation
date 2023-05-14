@@ -1,0 +1,20 @@
+Pros/contras dimensionamiento tx
+En el paso 4, donde se estima la capacidad del transformador, se utiliza el modelo probabilístico acumulativo ajustado para determinar el valor de potencia en el cual se supera una probabilidad acumulativa deseada. Esto implica establecer un nivel de probabilidad, como el 99%, y encontrar el valor de potencia correspondiente que se supera en ese nivel de probabilidad acumulativa.
+
+En el contexto de la estimación de capacidad del transformador, la capacidad requerida se refiere a la capacidad del transformador que es necesaria para satisfacer el consumo de energía eléctrica de la empresa. La capacidad se expresa típicamente en unidades de potencia, como kilovatios (kW) o kilovoltamperios (kVA).
+
+Cuando se realiza la estimación de capacidad del transformador, existen diferentes enfoques según el día de mayor consumo o el promedio de todos los días:
+
+1. Estimación basada en el día de mayor consumo: Si se utiliza el día de mayor consumo para la estimación de capacidad, se busca dimensionar el transformador de manera que sea capaz de manejar el consumo máximo que se registra en ese día. Esto garantiza que el transformador pueda cubrir el pico de demanda más alto. Sin embargo, es posible que durante el resto de los días el transformador no opere a su máxima capacidad, lo que puede resultar en una subutilización de su capacidad.
+
+2. Estimación basada en el promedio de todos los días: Si se utiliza el promedio de todos los días para la estimación de capacidad, se busca dimensionar el transformador de manera que sea capaz de manejar el consumo promedio diario de la empresa. Esto proporciona una capacidad más equilibrada y puede evitar el sobredimensionamiento del transformador en función de picos ocasionales de demanda. Sin embargo, existe el riesgo de que en días de mayor consumo el transformador pueda sobrecargarse y no satisfacer las necesidades de energía de la empresa.
+
+La elección entre estos enfoques depende de varios factores, incluidos los factores económicos y técnicos. Algunos factores a considerar son:
+
+- Costos: Dimensionar un transformador para el día de mayor consumo puede resultar en un transformador más grande y costoso. Si la empresa tiene restricciones presupuestarias, puede ser más conveniente dimensionar el transformador en función del promedio de todos los días.
+
+- Reserva de capacidad: Dimensionar el transformador para el día de mayor consumo proporciona una mayor reserva de capacidad para hacer frente a posibles picos de demanda. Esto puede ser beneficioso si la empresa espera un crecimiento futuro de la carga eléctrica o si la carga es fluctuante.
+
+- Eficiencia y vida útil: Si el transformador funciona en su capacidad máxima durante largos períodos, puede haber un mayor desgaste y una disminución en la eficiencia energética. Dimensionar el transformador para el promedio de todos los días puede ayudar a optimizar su operación y prolongar su vida útil.
+
+En última instancia, la elección del enfoque para dimensionar la capacidad del transformador debe basarse en un análisis detallado de las necesidades específicas de la empresa, incluyendo los patrones de consumo, la variabilidad de la carga y los objetivos de eficiencia y costos. Es recomendable consultar a expertos en el diseño de subestaciones eléctricas y considerar
