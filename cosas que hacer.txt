@@ -1,0 +1,4 @@
+Hacer codigo en python para calcular las horas de overload,tambien saber la P exacta de determinado S
+ONAN
+
+
